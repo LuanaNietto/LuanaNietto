@@ -3,6 +3,7 @@
 - 🔭 Trabalho com Java, AngularJs, Docker, SQL, Javascript, Html, css...
 - 🌱 Estou estudando NodeJs, ReactJs, Phyton, BigData...
 - :information_desk_person: Pronomes: Ela/Dela
+- SC-Brasil
 
 <div>
   <a href="https://github.com/LuanaNietto">
