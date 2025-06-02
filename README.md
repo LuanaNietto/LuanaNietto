@@ -1,7 +1,8 @@
-## :sparkles: Oiiee! Sou Luana Nietto :sparkles:
+## :sparkles: Oie! Sou Luana Nietto :sparkles:
 #### :star2: FullStack Developer 
 - 👩‍💻 Trabalho com Java, AngularJs, SQL, Docker, Javascript, NodeJs, ReactJs, Html, css...
 - 🌱 Estou estudando Phyton, BigData e Machine Learnig...
+- 👩‍🏫 Integrante do grupo de Pesquisa em Inteligência Artificial Aplicada - (UNESC)
 - :information_desk_person: Pronomes: Ela/Dela
 - SC-Brasil
 
