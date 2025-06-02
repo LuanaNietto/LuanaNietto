@@ -9,8 +9,8 @@
 <div>
   <a href="https://github.com/LuanaNietto">
 <!--   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LuanaNietto&show_icons=true&theme=radical&include_all_commits=true">
-    <img height="200em" widht="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuanaNietto&layout=compact"> -->
-     <img height="200em" widht="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuanaNietto&layout=pie"> 
+     <img height="200em" widht="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuanaNietto&layout=pie">  -->
+    <img height="200em" widht="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuanaNietto&layout=compact">
 </div>
 
   
